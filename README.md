@@ -2,6 +2,7 @@
 
 CI/CD pipeline to automate the deployment of a react native app to firebase app distribution 
 
+## Requisites
 
 ### `Firebase tokens`
 > `${{secrets.FIREBASE_APP_ID_ANDROID}}` : This is the app ID which you can find from the firebase console under **project settings**
