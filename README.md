@@ -10,5 +10,5 @@ CI/CD pipeline to automate the deployment of a react native app to firebase app 
 > `${{secrets.FIREBASE_TOKEN}}` : This is a token which you can get after configuring firebase on your local machine and then running 
 > ***firebase login:ci*** to generate the token.
 
-## Store these two tokens seperately under your
+## Store these two tokens seperately under your GitHub Secrets
 ***Repository> Settings> Secrets> Actions> New Repository Key***
