@@ -11,4 +11,4 @@ CI/CD pipeline to automate the deployment of a react native app to firebase app 
 > ***firebase login:ci*** to generate the token.
 
 ## Store these two tokens seperately under your
-### Repository> Settings> Secrets> Actions> New Repository Key
+***Repository> Settings> Secrets> Actions> New Repository Key***
