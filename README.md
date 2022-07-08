@@ -12,3 +12,7 @@ CI/CD pipeline to automate the deployment of a react native app to firebase app 
 
 ## Store these two tokens seperately under your GitHub Secrets
 ***Repository> Settings> Secrets> Actions> New Repository Key***
+
+
+Find the full article here:
+https://www.middlewareinventory.com/blog/github-actions-firebase-app-distribution-example-devops-junction/
